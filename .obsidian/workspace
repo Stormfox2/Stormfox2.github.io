@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9a04c576e34ddb12",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb19b6de36492fa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Homepage.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49c2f8ff946bd034",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2d1665e389b2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b352f296d6dee7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "872b93ba5fdb265d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72c82374fbef07df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87bca6df15b0680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c28056c708ed4831",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeeee1f27e82385f",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb19b6de36492fa4",
+  "lastOpenFiles": [
+    "Homepage.md",
+    "Test.md",
+    "Untitled.md"
+  ]
+}
